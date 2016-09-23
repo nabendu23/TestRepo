@@ -6,10 +6,10 @@ using System.Web.Mvc;
 
 namespace TestAppForGit.Models
 {
-    public class TestModel : Controller
+    public class ModelTest : Controller
     {
         //
-        // GET: /TestModel/
+        // GET: /ModelTest/
 
         public ActionResult Index()
         {
